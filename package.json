@@ -17,7 +17,7 @@
     "url": "git+https://github.com/jeliasson/npm-husky-hooks.git"
   },
   "dependencies": {
-    "commander": "^11.0.0",
+    "commander": "^13.0.0",
     "husky": "^9.0.0",
     "node-fetch": "^2.6.7",
     "zod": "^3.17.3"
